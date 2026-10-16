@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
-  <img alt="moat" src="logo-light.png" width="160">
+  <source media="(prefers-color-scheme: dark)" srcset="https://moatfw.dev/brand/logo-dark.png">
+  <img alt="moat" src="https://moatfw.dev/brand/logo-light.png" width="160">
 </picture>
 
 A rule language for XDP firewalls. Write rules, test them against packets,
